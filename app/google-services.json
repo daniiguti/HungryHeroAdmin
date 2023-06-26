@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "950012487388",
+    "firebase_url": "https://proyectogestioncocina-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "proyectogestioncocina",
+    "storage_bucket": "proyectogestioncocina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950012487388:android:c8e5df62cd5a814148f619",
+        "android_client_info": {
+          "package_name": "com.example.appempresa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950012487388-okndj98bom67gqj89utn7bfk711hfq3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVKM45KolpPTrXD2dnMs4LQvJo2Yl_lis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950012487388-okndj98bom67gqj89utn7bfk711hfq3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950012487388:android:4dfb5c980e45bc7848f619",
+        "android_client_info": {
+          "package_name": "com.example.pruebabottomnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950012487388-okndj98bom67gqj89utn7bfk711hfq3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVKM45KolpPTrXD2dnMs4LQvJo2Yl_lis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950012487388-okndj98bom67gqj89utn7bfk711hfq3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950012487388:android:5b1e2622427bb00648f619",
+        "android_client_info": {
+          "package_name": "com.example.pruebafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950012487388-okndj98bom67gqj89utn7bfk711hfq3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVKM45KolpPTrXD2dnMs4LQvJo2Yl_lis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950012487388-okndj98bom67gqj89utn7bfk711hfq3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
